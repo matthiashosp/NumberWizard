@@ -14,6 +14,7 @@ public class NumberWizard : MonoBehaviour {
     void Start () {
 
         setGuess();
+        print("hallihallo, whats gucci ma nucci");
        
     }
 
